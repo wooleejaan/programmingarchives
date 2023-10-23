@@ -13,6 +13,7 @@ export default defineConfig({
       { find: "@playgrounds", replacement: path.resolve(__dirname, "./") },
     ],
   },
+  // https://vitejs.dev/guide/build.html#customizing-the-build
   build: {
     rollupOptions: {
       output: {
