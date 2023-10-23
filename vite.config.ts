@@ -13,4 +13,13 @@ export default defineConfig({
       { find: "@playgrounds", replacement: path.resolve(__dirname, "./") },
     ],
   },
+  build: {
+    rollupOptions: {
+      output: {
+        entryFileNames: "we-are-[name]-[hash].js",
+        assetFileNames: "assets/we-are-[name]-[hash].[ext]",
+        chunkFileNames: "we-are-[name]-[hash].js",
+      },
+    },
+  },
 });
