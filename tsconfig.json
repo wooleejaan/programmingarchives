@@ -25,6 +25,7 @@
     "paths": {
       "@r/*": ["./src/*"],
       "@router/*": ["./src/pages/*"],
+      "@api/*": ["./src/services/api/*"],
       "@styles/*": ["./src/styles/*"],
       "@playgrounds/*": ["./*"]
     }
