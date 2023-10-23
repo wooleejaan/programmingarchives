@@ -3,7 +3,6 @@ const wrapperForFetch = async (
   handler: (data: Awaited<void>) => void
 ) => {
   const data = await func();
-
   handler(data);
 };
 
