@@ -1,1 +1,4 @@
-# we-are-playground
+### we-are-playground
+
+코드도 작성하고, 글도 작성하는 곳입니다.</br>
+현재 어떤 걸 배우고 있고, 관심 있는지 알 수 있습니다.
