@@ -6,3 +6,17 @@
 </br>
 개인적인 학습을 위한 공간이기에 다소 추상적일 수 있습니다.</br>
 한 번이라도 읽어보거나 들어가 본 곳은 전부 출처를 남깁니다.
+
+### commit tag convention
+
+tag를 다음과 같이 통일(2023.10.27~).
+
+```
+docs(feat) - 새로운 지식 문서 생성(추가)
+docs(add) - 기존 지식 문서에 내용 추가
+docs(refactor) - 기존 지식 문서 내용 수정(삭제 포함)
+docs(ref) - (기존/새로운) 지식 문서 관련 출처 문서 수정/삭제/추가
+
+그 외 실제 코드 관련해서는 일반적인 tag를 사용
+feat, chore, design, docs, rename, remove, test, refactor, style, design, ...
+```
