@@ -12,11 +12,16 @@
 tag를 다음과 같이 통일(2023.10.27~).
 
 ```bash
-docs(feat): "새로운 지식 문서 제목" # 새로운 지식 문서 생성(추가)
-docs(add): "추가한 지식 문서 제목" # 기존 지식 문서에 내용 추가
-docs(fix/refactor/delete): "수정/삭제한 문서 내용" # 기존 지식 문서 내용 수정(또는 삭제)
-docs(ref): "출처명" # (기존/새로운) 지식 문서 관련 출처 문서 수정/삭제/추가
+docs(feat): "새로운 학습 주제" # 새로운 학습 관련 문서 생성
+docs(add): "추가적인 학습 주제" # 기존 학습 문서 내 새로운 학습내용을 추가할 경우
+docs(fix/refactor/delete): "단순수정/개선/삭제한 학습 주제" # 기존 학습 문서를 수정하는 경우 (수정/개선/삭제)
+docs(ref): "출처" # 학습 문서 관련 출처 문서
+docs(readme): "README.md 관련 수정 내용"
 
 그 외 실제 코드 관련해서는 일반적인 tag를 사용
 feat, chore, design, docs, rename, remove, test, refactor, style, design, ...
 ```
+
+### Map
+
+추후 학습한 내용들의 toc를 이곳에 작성할 예정입니다.
