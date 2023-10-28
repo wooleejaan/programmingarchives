@@ -17,6 +17,7 @@ docs(add): "추가적인 학습 주제" # 기존 학습 문서 내 새로운 학
 docs(fix/refactor/delete): "단순수정/개선/삭제한 학습 주제" # 기존 학습 문서를 수정하는 경우 (수정/개선/삭제)
 docs(ref): "출처" # 학습 문서 관련 출처 문서
 docs(readme): "README.md 관련 수정 내용"
+docs(img): "문서명 + 이미지" # 문서에 필요한 이미지 업로드
 
 그 외 실제 코드 관련해서는 일반적인 tag를 사용
 feat, chore, design, docs, rename, remove, test, refactor, style, design, ...
