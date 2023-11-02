@@ -10,3 +10,7 @@
 - --samplers smc: 이 부분은 powermetrics 명령어의 또 다른 옵션으로, 사용할 데이터 샘플러를 선택하는 옵션이다. 여기서 "smc"는 System Management Controller의 데이터를 수집하도록 선택한 것으로, 시스템의 전력 및 성능 데이터 중 일부를 수집한다. SMC 데이터는 전력 관리와 성능 조절과 관련이 있다.
 
 ![Alt text](image-2.png)
+
+## 참고자료
+
+- [Get fan speed from terminal without spindump or third party software](https://apple.stackexchange.com/questions/304949/get-fan-speed-from-terminal-without-spindump-or-third-party-software)
