@@ -14,25 +14,16 @@
 tag를 다음과 같이 통일(2023.10.27~).
 
 ```bash
-docs(feat): "새로운 학습 주제" # 새로운 학습 관련 문서 생성
-docs(add): "추가적인 학습 주제" # 기존 학습 문서 내 새로운 학습내용을 추가할 경우
-docs(fix/refactor/delete): "단순수정/개선/삭제한 학습 주제" # 기존 학습 문서를 수정하는 경우 (수정/개선/삭제)
-docs(ref): "출처" # 학습 문서 관련 출처 문서
-docs(readme): "README.md 관련 수정 내용"
-docs(img): "문서명 + 이미지" # 문서에 필요한 이미지 업로드
+docs(query): "질문 제목" # 새로운 질문을 등록합니다.
+docs(answer): "질문 제목" # 해당 질문에 대한 답변을 등록합니다.
 
-그 외 실제 코드 관련해서는 일반적인 tag를 사용
-feat, chore, design, docs, rename, remove, test, refactor, style, design, ...
+feat, add, refactor, delete, chore, ...
 ```
 
 ### Folder Structure
 
-1. 플레이그라운드에 해당하는 폴더 이름은 `__`로 시작합니다.
-2. 출처 혹은 계획을 담은 문서명은 `milestone.md`로 통일합니다.
-3. 각 주제에 대한 메인 문서는 `_.md`로 작성합니다.
-4. 플레이그라운드를 통해 공부한 지식들은 `___Recursively-traverses-red-trees-of-the-forest`에 다시 추상화해서 게시합니다.
-5. 추상화한 질문 답변들을 바탕으로 다시 플레이그라운드를 압축합니다.
+`___Recursively-traverses-red-trees-of-the-forest`을 운영합니다.
 
-## Content Tree
-
-추후 학습한 내용들의 toc를 이곳에 작성할 예정입니다.
+어떤 자료든 읽고 질문을 떠올리고, 그 질문에 대한 답변을 등록합니다.<br>
+당장 답변하기 어렵다면, 질문과 관련 자료들만 등록해두고 계속해서 공부합니다.<br>
+답변은 당장 장황하게 작성하더라도, 계속해서 압축합니다.
