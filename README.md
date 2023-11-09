@@ -30,6 +30,7 @@ feat, chore, design, docs, rename, remove, test, refactor, style, design, ...
 1. 플레이그라운드에 해당하는 폴더 이름은 `__`로 시작합니다.
 2. 출처 혹은 계획을 담은 문서명은 `milestone.md`로 통일합니다.
 3. 각 주제에 대한 메인 문서는 `_.md`로 작성합니다.
+4. 플레이그라운드를 통해 공부한 지식들은 `___Recursively-traverses-red-trees-of-the-forest`에 다시 추상화해서 게시합니다.
 
 ## Content Tree
 
