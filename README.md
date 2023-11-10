@@ -7,20 +7,7 @@
 타인의 문장을 따라 적기도 하고, 무작정 요약하기도 합니다. 해당 지식을 이해할 수 있다면 어떤 방식이든 사용하며, 그렇게 매일 짧게나마 글을 읽고 정리해 나갑니다.<br>
 차곡차곡 지식들을 반복하며, 이를 발판 삼아 성장을 꾀합니다.
 
-## Convention
-
-### Tags
-
-tag를 다음과 같이 통일(2023.10.27~).
-
-```bash
-docs(query): "질문 제목" # 새로운 질문을 등록합니다.
-docs(answer): "질문 제목" # 해당 질문에 대한 답변을 등록합니다.
-
-feat, add, refactor, delete, chore, ...
-```
-
-### Folder Structure
+## Folder Structure
 
 `___Recursively-traverses-red-trees-of-the-forest`을 운영합니다.
 
