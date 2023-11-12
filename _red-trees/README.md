@@ -14,7 +14,7 @@
 - [var이 let, const보다 빠른 이유](./js/q&a.md)
 - [[성능 최적화]nextjs에서 배럴 파일을 관리하는 방법 - modularizeImports & optimizePackageImports](./react&next/q&a_2.md)
 
-## to be read
+## To be read
 
 - [클로저 컴파일러의 역사, 그리고 타입스크립트가 승리한 이유](https://ktseo41.github.io/blog/log/the-saga-of-the-closure-compiler-and-why-typescript-won.html)
 - [The Saga of the Closure Compiler, and Why TypeScript Won](https://effectivetypescript.com/2023/09/27/closure-compiler/)
