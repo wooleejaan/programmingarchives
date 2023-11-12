@@ -83,6 +83,12 @@ HTTP 캐시는 여러 레이어에 저장될 수 있습니다. CDN과 같은 중
 
 ### to be read
 
+frontend http cache strategy
+
 - [Cache | mdn](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
 - [[Cache API] 프론트엔드의 자체적인 HTTP caching 구현 및 만료 일자 지정하기 (feat. 서버의 response headers를 변경할 수 없을 때)](https://velog.io/@skyu_dev/Cache-API-%EC%84%9C%EB%B2%84-%EC%9D%91%EB%8B%B5response%EC%9D%98-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%BA%90%EC%8B%B1%ED%95%98%EC%97%AC-%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C-%EC%9A%94%EC%B2%AD%EC%9D%84-%EC%A4%84%EC%97%AC%EB%B3%B4%EC%9E%90)
 - [The Cache API: A quick guide](https://web.dev/articles/cache-api-quick-guide)
+- [Why HTTP Caching Matters for APIs](https://thenewstack.io/why-http-caching-matters-for-apis/)
+- [Prevent unnecessary network requests with the HTTP Cache](https://web.dev/articles/http-cache)
+- [Frontend vs. Backend Caching: Which is Better?](https://copyprogramming.com/howto/caching-on-frontend-or-on-backend)
+- [Cache It Right: Top Frontend Interview Questions on HTTP Caching — Part 2](https://bootcamp.uxdesign.cc/cache-it-right-top-frontend-interview-questions-on-http-caching-part-2-54034cf348ff)
