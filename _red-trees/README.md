@@ -12,8 +12,9 @@
 - [웹에서의 캐시와 캐시 전략](./cache/q&a.md)
 - [SPA에서 URL과 State를 동기화해야 하는 이유, Nextjs RSC에서 UI State과 Event를 연결하는 우아한 방법](./react&next/q&a_1.md)
 - [var이 let, const보다 빠른 이유](./js/q&a.md)
+- [[성능 최적화]nextjs에서 배럴 파일을 관리하는 방법 - modularizeImports & optimizePackageImports](./react&next/q&a_2.md)
 
-### to be read
+## to be read
 
 - [클로저 컴파일러의 역사, 그리고 타입스크립트가 승리한 이유](https://ktseo41.github.io/blog/log/the-saga-of-the-closure-compiler-and-why-typescript-won.html)
 - [The Saga of the Closure Compiler, and Why TypeScript Won](https://effectivetypescript.com/2023/09/27/closure-compiler/)
