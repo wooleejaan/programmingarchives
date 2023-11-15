@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>javaScript Object</title>
+    <script type="module" defer src="./a.js"></script>
+  </head>
+  <body>
+    <script>
+      function Person(name) {
+        this.name = name;
+      }
+
+      var foo = new Person("yonehara");
+      var bar = new Person("suzuki");
+      foo.job = "frontend";
+      bar.job = "backend";
+    </script>
+  </body>
+</html>
