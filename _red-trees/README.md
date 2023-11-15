@@ -20,3 +20,4 @@
 [react 상태 관리 비교](./react&next/q.md)<br>
 [MFEs 개념 이해](./react&next/q_4.md)<br>
 [zod](./react&next/q_5.md)<br>
+[hydration](./react&next/q_6.md)<br>
