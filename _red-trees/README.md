@@ -14,3 +14,9 @@
 3. [var이 let, const보다 빠른 이유](./js/q&a.md)
 4. [[성능최적화]nextjs에서 배럴 파일을 관리하는 방법 - modularizeImports & optimizePackageImports](./react&next/q&a_2.md)
 5. [[성능최적화]자바스크립트가 객체를 관리하는 방식 : 자바스크립트도 결국은 정적타이핑을 기대합니다.](./js/q&a_1/q&a_1.md)
+
+### My current area of study
+
+[react 상태 관리 비교](./react&next/q.md)<br>
+[MFEs 개념 이해](./react&next/q_4.md)<br>
+[zod](./react&next/q_5.md)<br>
