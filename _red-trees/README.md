@@ -9,7 +9,8 @@
 
 ## Features
 
-- [웹에서의 캐시와 캐시 전략](./cache/q&a.md)
-- [SPA에서 URL과 State를 동기화해야 하는 이유, Nextjs RSC에서 UI State과 Event를 연결하는 우아한 방법](./react&next/q&a_1.md)
-- [var이 let, const보다 빠른 이유](./js/q&a.md)
-- [[성능 최적화]nextjs에서 배럴 파일을 관리하는 방법 - modularizeImports & optimizePackageImports](./react&next/q&a_2.md)
+1. [웹에서의 캐시와 캐시 전략](./cache/q&a.md)
+2. [SPA에서 URL과 State를 동기화해야 하는 이유, Nextjs RSC에서 UI State과 Event를 연결하는 우아한 방법](./react&next/q&a_1.md)
+3. [var이 let, const보다 빠른 이유](./js/q&a.md)
+4. [[성능최적화]nextjs에서 배럴 파일을 관리하는 방법 - modularizeImports & optimizePackageImports](./react&next/q&a_2.md)
+5. [[성능최적화]자바스크립트가 객체를 관리하는 방식 : 자바스크립트도 결국은 정적타이핑을 기대합니다.](./js/q&a_1/q&a_1.md)
