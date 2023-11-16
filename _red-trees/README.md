@@ -22,3 +22,4 @@
 [fe architecture | MFEs, monorepo, ...](./react&next/q_4.md)<br>
 [zod](./react&next/q_5.md)<br>
 [hydration](./react&next/q_6.md)<br>
+[브랜치 전략 비교 | TBD](./development/q&a/q&a.md)<br>
