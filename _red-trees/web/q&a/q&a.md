@@ -60,12 +60,12 @@ RP는 프로세스이므로 당연히 여러 개의 스레드가 내부에 존�
 - 메인 스레드 내부 JS엔진을 통해 우리가 작성한 자바스크립트 코드가 실행됩니다. JS 엔진에는 기본적으로 메모리 할당이 발생하는 메모리 힙과 실행 컨텍스트들이 쌓이는 콜스택이 존재합니다. 콜스택은 하나이며, 한 번에 1개의 작업만 처리하는 싱글 스레드 방식으로 동작합니다.
 - JS엔진이 아닌, 브라우저에서 실행되도록 설계된 web apis가 존재합니다. 이 api들을 이벤트 루프가 브라우저로 옮깁니다. 브라우저에서 실행을 끝낸 api들이 Queue에 담기고 이벤트 루프는 콜스택이 비워지는 특정 시점에 Queue에서 이 api들을 가져옵니다. 이유는, 정확한 실행시점을 관리하기 위해서 입니다.
 - Queue에는 크게 3가지 종류가 존재합니다.
-  - `Task Queue` (Macrotask Queue, Event Queue, Callback Queue)
+  - `Task Queue` (또는 Macrotask Queue, Event Queue, Callback Queue로도 불립니다.)
     - setTimeout과 같은 비동기 콜백들이 저장됩니다.
-  - `Microtask Queue` (Job Queue)
+  - `Microtask Queue` (또는 Job Queue로도 불립니다.)
     - Promise, async/await, process.nextTick, object.observe, MutationObserver와 같은 Promise의 비동기 콜백들이 저장됩니다.
     - 하나의 사이클이 끝나면 실행되며, 빠르게 모든 콜백들이 전부 처리됩니다.
-  - Animation Frames (Render Queue)
+  - `Animation Frames` (또는 Render Queue로도 불립니다.)
     - 렌더링과 관련된 raF 콜백들이 독립적으로 쌓입니다.
 
 ## References
