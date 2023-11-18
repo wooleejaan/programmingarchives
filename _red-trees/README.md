@@ -15,6 +15,7 @@
 4. [[성능최적화]nextjs에서 배럴 파일을 관리하는 방법 - modularizeImports & optimizePackageImports](./react&next/q&a_2.md)
 5. [[성능최적화]자바스크립트가 객체를 관리하는 방식 : 자바스크립트도 결국은 정적타이핑을 기대합니다.](./js/q&a_1/q&a_1.md)
 6. [브라우저 아키텍쳐는 무엇인가요? | 브라우저 렌더링 과정에서 브라우저의 이벤트 루프는 어떻게 동작하며, 역할은 무엇인가요?](./web/q&a/q&a.md)
+7. [클라이언트에서 jwt를 안전하게 관리하는 방법은 무엇인가요? | 왜 안전합니까?](./web/q&a_1/q&a_1.md)
 
 ### My current area of study
 
