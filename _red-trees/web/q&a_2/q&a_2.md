@@ -80,6 +80,8 @@ HTTP 캐시는 여러 레이어에 저장될 수 있습니다. CDN과 같은 중
 - [웹 서비스 캐시 똑똑하게 다루기](https://toss.tech/article/smart-web-service-cache)
 - [Deploying: Going to Production | Next.js](https://nextjs.org/docs/pages/building-your-application/deploying/production-checklist)
 - [Front-End: Cache Strategies You Should Know](https://dzone.com/articles/front-end-cache-strategies-you-should-know)
+- [Cache It Right: Top Frontend Interview Questions on HTTP Caching — Part 1](https://bootcamp.uxdesign.cc/cache-it-right-top-frontend-interview-questions-on-http-caching-part-1-d852c3b75f90)
+- [Cache It Right: Top Frontend Interview Questions on HTTP Caching — Part 2](https://bootcamp.uxdesign.cc/cache-it-right-top-frontend-interview-questions-on-http-caching-part-2-54034cf348ff)
 
 ### to be read
 
