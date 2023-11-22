@@ -24,8 +24,7 @@
 
 ### Graphics
 
-그래픽스 분야를 학습니다.<br>
-재밌는 그래픽들을 구현할 수 있는 능력을 기릅니다.
+그래픽스를 학습하고, 구현 능력을 기릅니다.
 
 [yw-graphics](https://github.com/wooleejaan/yw-graphics)
 
@@ -42,8 +41,6 @@
 [cs in playgrounds](https://github.com/wooleejaan/yw-playgrounds/tree/main/_computer-science)
 
 ### Projects
-
-진행했던 프로젝트들을 기억합니다.
 
 [crytometer](https://github.com/codeit-bootcamp-frontend/0-crypto-meter-technokings)<br>
 [theJulge](https://github.com/codeit-bootcamp-frontend/0-the-julge-young-developers)<br>
