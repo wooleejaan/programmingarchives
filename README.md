@@ -1,4 +1,4 @@
-# YONGWOO-PLAYGROUNDS
+# PLAYGROUNDS
 
 개발자로서 성장하기 위해 여러 분야를 학습합니다.<br>
 현재 배우고 있거나, 앞으로 배우고 싶은 분야의 지식을 GITHUB로 관리합니다.
@@ -20,20 +20,20 @@
 프론트엔드 분야와 관련된 다양한 지식들을 학습합니다.<br>
 실제로 코드를 작성하며 실전 지식을 배웁니다.
 
-[YONGWOO-FRONTEND](https://github.com/wooleejaan/yw-frontend)
+[YW-FRONTEND](https://github.com/wooleejaan/yw-frontend)
 
 ### Graphics
 
 그래픽스 분야를 학습니다.<br>
 재밌는 그래픽들을 구현할 수 있는 능력을 기릅니다.
 
-[YONGWOO-GRAPHICS](https://github.com/wooleejaan/yw-graphics)
+[YW-GRAPHICS](https://github.com/wooleejaan/yw-graphics)
 
 ### Algorithms(Data Structures)
 
 자료구조와 알고리즘을 학습니다.
 
-[YONGWOO-ALGORITHMS](https://github.com/wooleejaan/yw-algorithms)
+[YW-ALGORITHMS](https://github.com/wooleejaan/yw-algorithms)
 
 ### Computer Science
 
