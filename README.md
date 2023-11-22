@@ -1,16 +1,51 @@
-# yw-playgrounds
+# YONGWOO-PLAYGROUNDS
 
-개인 학습을 위한 공간입니다.<br>
-주로 글을 공개적으로 발행하기 전 브레인스토밍 수준의 문장들이 담겨 있습니다.<br>
+개발자로서 성장하기 위해 여러 분야를 학습합니다.<br>
+배우고 있거나, 배우고 싶어하는 분야들을 다양한 repository에서 기록합니다.
 
-현재 배우고 있거나, 가볍게 읽어 본 주제들, 번역 등 개발자로서 성장할 수 있을 만한 온갖 주제들을 다룹니다.</br>
-타인의 문장을 따라 적기도 하고, 무작정 요약하기도 합니다. 해당 지식을 이해할 수 있다면 어떤 방식이든 사용하며, 그렇게 매일 짧게나마 글을 읽고 정리해 나갑니다.<br>
-차곡차곡 지식들을 반복하며, 이를 발판 삼아 성장을 꾀합니다.
+## Features
 
-## Folder Structure
+### Red Tree
 
-어떤 자료든 읽고 질문을 떠올리고, 그 질문에 대한 답변을 등록합니다.<br>
+다양한 자료들을 읽고 질문을 생각합니다. 그리고 질문에 스스로 답변합니다.<br>
 당장 답변하기 어렵다면, 질문과 관련 자료들만 등록해두고 계속해서 공부합니다.<br>
-답변은 당장 장황하게 작성하더라도, 계속해서 압축합니다.
+당장 장황하게 혹은 틀리게 답변을 작성하더라도, 계속해서 다듬습니다.<br>
+정제된 글을 한 번에 쓰지 않으려고 노력합니다. 짧게 학습하고 반복을 통해 깊게 이해합니다.<br>
+문장을 따라 적기도 하고, 무턱대고 요약하기도 합니다. 어떤 방식이든 내 것으로 만듭니다.
 
-- [recursively traverses red-trees of the forest](./_red-trees/README.md)
+[recursively traverses red-trees of the forest](https://github.com/wooleejaan/yw-playgrounds/tree/main/_red-trees)
+
+### Frontend
+
+프론트엔드 분야와 관련된 다양한 지식들을 학습합니다.<br>
+실제로 코드를 작성하며 실전 지식을 배웁니다.
+
+[YONGWOO-FRONTEND](https://github.com/wooleejaan/yw-frontend)
+
+### Graphics
+
+그래픽스 분야를 학습니다.<br>
+재밌는 그래픽들을 구현할 수 있는 능력을 기릅니다.
+
+[YONGWOO-GRAPHICS](https://github.com/wooleejaan/yw-graphics)
+
+### Algorithms(Data Structures)
+
+꾸준히 알고리즘을 학습니다.
+
+[YONGWOO-ALGORITHMS](https://github.com/wooleejaan/yw-algorithms)
+
+### Computer Science
+
+컴퓨터과학 지식을 학습니다.
+
+[cs in playgrounds](https://github.com/wooleejaan/yw-playgrounds/tree/main/_computer-science)
+
+### Projects
+
+프로젝트 repository들입니다.
+
+[Crytometer](https://github.com/codeit-bootcamp-frontend/0-crypto-meter-technokings)<br>
+[TheJulge](https://github.com/codeit-bootcamp-frontend/0-the-julge-young-developers)<br>
+[Na-Jasin](https://github.com/najasin/na-jasin-fe)<br>
+[August Archive](https://github.com/wooleejaan/august-archive)<br>
