@@ -1,7 +1,7 @@
 # YONGWOO-PLAYGROUNDS
 
 개발자로서 성장하기 위해 여러 분야를 학습합니다.<br>
-배우고 있거나, 배우고 싶어하는 분야들을 다양한 repository에서 기록합니다.
+현재 배우고 있거나, 앞으로 배우고 싶은 분야의 지식을 GITHUB로 관리합니다.
 
 ## Features
 
@@ -11,7 +11,7 @@
 당장 답변하기 어렵다면, 질문과 관련 자료들만 등록해두고 계속해서 공부합니다.<br>
 당장 장황하게 혹은 틀리게 답변을 작성하더라도, 계속해서 다듬습니다.<br>
 정제된 글을 한 번에 쓰지 않으려고 노력합니다. 짧게 학습하고 반복을 통해 깊게 이해합니다.<br>
-문장을 따라 적기도 하고, 무턱대고 요약하기도 합니다. 어떤 방식이든 내 것으로 만듭니다.
+문장을 따라 적기도 하고, 무턱대고 요약하기도 합니다. 어떻게든 내 것으로 만듭니다.
 
 [recursively traverses red-trees of the forest](https://github.com/wooleejaan/yw-playgrounds/tree/main/_red-trees)
 
@@ -31,7 +31,7 @@
 
 ### Algorithms(Data Structures)
 
-꾸준히 알고리즘을 학습니다.
+자료구조와 알고리즘을 학습니다.
 
 [YONGWOO-ALGORITHMS](https://github.com/wooleejaan/yw-algorithms)
 
@@ -43,7 +43,7 @@
 
 ### Projects
 
-프로젝트 repository들입니다.
+진행했던 프로젝트들을 기억합니다.
 
 [Crytometer](https://github.com/codeit-bootcamp-frontend/0-crypto-meter-technokings)<br>
 [TheJulge](https://github.com/codeit-bootcamp-frontend/0-the-julge-young-developers)<br>
