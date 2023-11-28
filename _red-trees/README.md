@@ -25,3 +25,4 @@
 [hydration](./react&next/q_6.md)<br>
 [브랜치 전략 비교 | TBD](./development/q&a/q&a.md)<br>
 [js 동작원리 심화](./js/q&a_2/q&a_2.md)<br>
+[next js 디버깅 with 크롬 devtools](./react&next/s.md)<br>
