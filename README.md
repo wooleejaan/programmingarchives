@@ -16,11 +16,13 @@
 [yw-graphics](https://github.com/wooleejaan/yw-graphics)<br>
 [cs in playgrounds](https://github.com/wooleejaan/yw-playgrounds/tree/main/_computer-science)
 
-### Algorithms(Data Structures)
+### Computer Science
 
-자료구조와 알고리즘을 학습니다.
-
+자료구조와 알고리즘을 학습니다.<br>
 [yw-algorithms](https://github.com/wooleejaan/yw-algorithms)
+
+컴퓨터과학 전반을 학습합니다.<br>
+[yw-cs](https://github.com/wooleejaan/yw-cs)
 
 ### Projects
 
