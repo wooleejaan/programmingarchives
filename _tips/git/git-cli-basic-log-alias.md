@@ -46,3 +46,4 @@ git log \
 
 [리눅스 Bash 줄바꿈](https://openwiki.kr/tech/%EB%A6%AC%EB%88%85%EC%8A%A4_bash_%EC%A4%84%EB%B0%94%EA%BF%88)<br>
 [Git, Github 명령어 사용 꿀팁](https://prgms.tistory.com/217)<br>
+[datalater/.gitconfig](https://gist.github.com/datalater/2e89ff92c264f3ee3a5fed1e1385827e)<br>
