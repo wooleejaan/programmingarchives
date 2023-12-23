@@ -4,7 +4,7 @@
 
 ## Features
 
-**Web Development**
+$${\color{purple}Web \space Development}$$
 
 [recursively traverses red-trees of the forest](https://github.com/wooleejaan/yw-playgrounds/tree/main/_red-trees)<br>
 [yw-frontend](https://github.com/wooleejaan/yw-frontend)<br>
@@ -12,7 +12,7 @@
 [cs in playgrounds](https://github.com/wooleejaan/yw-playgrounds/tree/main/_computer-science)
 [development tips](https://github.com/wooleejaan/yw-playgrounds/tree/main/_tips)<br>
 
-**Computer Science**
+$${\color{purple}Computer \space Science}$$
 
 algorithms with c++/nodejs<br>
 [yw-algorithms](https://github.com/wooleejaan/yw-algorithms)
@@ -20,7 +20,7 @@ algorithms with c++/nodejs<br>
 computer science<br>
 [yw-cs](https://github.com/wooleejaan/yw-cs)
 
-### Projects
+$${\color{purple}Projects}$$
 
 [crytometer](https://github.com/codeit-bootcamp-frontend/0-crypto-meter-technokings)<br>
 [theJulge](https://github.com/codeit-bootcamp-frontend/0-the-julge-young-developers)<br>
