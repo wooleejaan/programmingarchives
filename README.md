@@ -1,28 +1,33 @@
-# PLAYGROUNDS
+<h1 align="center">PLAYGROUNDS</h1>
 
-추상 학습 공간
+<h2 align="center">Features</h2>
 
-## Features
+$${\color{black}Web \space Development}$$
 
-$${\color{purple}Web \space Development}$$
+<p align="center">
+<a href="https://github.com/wooleejaan/yw-playgrounds/tree/main/_red-trees" target="_blank">recursively traverses red-trees of the forest</a><br>
+<a href="https://github.com/wooleejaan/yw-frontend" target="_blank">yw-frontend</a><br>
+<a href="https://github.com/wooleejaan/yw-graphics" target="_blank">yw-graphics</a><br>
+<a href="https://github.com/wooleejaan/yw-playgrounds/tree/main/_tips" target="_blank">development tips</a><br>
+</p>
 
-[recursively traverses red-trees of the forest](https://github.com/wooleejaan/yw-playgrounds/tree/main/_red-trees)<br>
-[yw-frontend](https://github.com/wooleejaan/yw-frontend)<br>
-[yw-graphics](https://github.com/wooleejaan/yw-graphics)<br>
-[cs in playgrounds](https://github.com/wooleejaan/yw-playgrounds/tree/main/_computer-science)
-[development tips](https://github.com/wooleejaan/yw-playgrounds/tree/main/_tips)<br>
+$${\color{black}Computer \space Science}$$
 
-$${\color{purple}Computer \space Science}$$
-
+<p align="center">
 algorithms with c++/nodejs<br>
-[yw-algorithms](https://github.com/wooleejaan/yw-algorithms)
+<a href="https://github.com/wooleejaan/yw-algorithms" target="_blank">yw-algorithms</a>
+</p>
 
+<p align="center">
 computer science<br>
-[yw-cs](https://github.com/wooleejaan/yw-cs)
+<a href="https://github.com/wooleejaan/yw-cs" target="_blank">yw-cs</a>
+</p>
 
-$${\color{purple}Projects}$$
+$${\color{black}Projects}$$
 
-[crytometer](https://github.com/codeit-bootcamp-frontend/0-crypto-meter-technokings)<br>
-[theJulge](https://github.com/codeit-bootcamp-frontend/0-the-julge-young-developers)<br>
-[naJasin](https://github.com/najasin/na-jasin-fe)<br>
-[augustArchive](https://github.com/wooleejaan/august-archive)<br>
+<p align="center">
+<a href="https://github.com/codeit-bootcamp-frontend/0-crypto-meter-technokings" target="_blank">Crytometer</a><br>
+<a href="https://github.com/codeit-bootcamp-frontend/0-the-julge-young-developers" target="_blank">TheJulge</a><br>
+<a href="https://github.com/najasin/na-jasin-fe" target="_blank">NaJasin</a><br>
+<a href="https://github.com/wooleejaan/august-archive" target="_blank">AugustArchive</a><br>
+</p>
