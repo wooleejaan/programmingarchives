@@ -1,7 +1,3 @@
-<h1 align="center">PLAYGROUNDS</h1>
-
-<h2 align="center">Features</h2>
-
 $${\color{black}Web \space Development}$$
 
 <p align="center">
@@ -14,13 +10,8 @@ $${\color{black}Web \space Development}$$
 $${\color{black}Computer \space Science}$$
 
 <p align="center">
-algorithms with c++/nodejs<br>
-<a href="https://github.com/wooleejaan/yw-algorithms" target="_blank">yw-algorithms</a>
-</p>
-
-<p align="center">
-computer science<br>
-<a href="https://github.com/wooleejaan/yw-cs" target="_blank">yw-cs</a>
+<a href="https://github.com/wooleejaan/yw-algorithms" target="_blank">yw-algorithms (algorithms with c++/nodejs)</a><br>
+<a href="https://github.com/wooleejaan/yw-cs" target="_blank">yw-cs (computer science)</a><br>
 </p>
 
 $${\color{black}Projects}$$
