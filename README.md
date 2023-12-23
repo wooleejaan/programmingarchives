@@ -1,7 +1,8 @@
 $${\color{black}Web \space Development}$$
 
 <p align="center">
-<span style="color:gray"><a href="https://github.com/wooleejaan/yw-playgrounds/tree/main/_red-trees">recursively traverses red-trees of the forest</a></span><br>
+<a href="https://github.com/wooleejaan/yw-playgrounds/tree/main/_red-trees">
+<span style="color: gray;">recursively traverses red-trees of the forest</span></a><br>
 <a href="https://github.com/wooleejaan/yw-frontend">yw-frontend</a><br>
 <a href="https://github.com/wooleejaan/yw-graphics">yw-graphics</a><br>
 <a href="https://github.com/wooleejaan/yw-playgrounds/tree/main/_tips">development tips</a><br>
