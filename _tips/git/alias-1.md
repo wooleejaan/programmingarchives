@@ -33,6 +33,8 @@ bak-clean = "!git for-each-ref refs/heads/bak --format='%(refname)' | while read
 synchard = "!f() { git fetch --all && git checkout ${1:-main} && git reset --hard origin/${1:-main} && git switch - ; }; f"
 ```
 
+git alias를 글로벌로 적용하려면 `open ~/.gitconfig`
+
 ## References
 
 [리눅스 Bash 줄바꿈](https://openwiki.kr/tech/%EB%A6%AC%EB%88%85%EC%8A%A4_bash_%EC%A4%84%EB%B0%94%EA%BF%88)<br>
