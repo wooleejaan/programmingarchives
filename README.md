@@ -1,17 +1,17 @@
 $${\color{black}Web \space Development}$$
 
 <p align="center">
-<a href="https://github.com/wooleejaan/yw-playgrounds/tree/main/_red-trees">recursively traverses red-trees of the forest</a><br>
-<a href="https://github.com/wooleejaan/yw-frontend">yw-frontend</a><br>
-<a href="https://github.com/wooleejaan/yw-graphics">yw-graphics</a><br>
-<a href="https://github.com/wooleejaan/yw-playgrounds/tree/main/_tips">development tips</a><br>
+<a href="https://github.com/wooleejaan/programmingarchives/tree/main/_red-trees#readme">Programming Red Tree</a><br>
+<a href="https://github.com/wooleejaan/practicalfrontendarchives">Practical Frontend Archives</a><br>
+<a href="https://github.com/wooleejaan/webgraphicsarchives">Web Graphics Archives</a><br>
+<a href="https://github.com/wooleejaan/programmingarchives/tree/main/_tips">Programming Tips</a><br>
 </p>
 
 $${\color{black}Computer \space Science}$$
 
 <p align="center">
-<a href="https://github.com/wooleejaan/yw-algorithms">yw-algorithms (algorithms with c++/nodejs)</a><br>
-<a href="https://github.com/wooleejaan/yw-cs">yw-cs (computer science)</a><br>
+<a href="https://github.com/wooleejaan/algorithms">Algorithms with c++/nodejs</a><br>
+<a href="https://github.com/wooleejaan/computerscience">Computer Science</a><br>
 </p>
 
 $${\color{black}Projects}$$
