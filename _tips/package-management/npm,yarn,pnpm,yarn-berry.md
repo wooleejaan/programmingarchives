@@ -40,6 +40,8 @@ npm v2까지는 같은 모듈 의존시 전부 폴더 구조 만들어서 사용
 npm v3~, yarn은 호이스팅 기법 사용. => 중복되는 걸 호이스팅해서 flat하게 사용.
 
 - 유령 의존성 문제 : 의존하고 있지 않은 라이브러리를 require 하는 현상
+  - 분명 설치를 하지 않아서 오류가 나야 하지만, package.json에 명시되어 있지 않아도 다른 라이브러리의 하위 의존성을 기준으로 있다고 판단하고 의존하는 문제 => 버전이 명확하지 않아 문제 발생할 수 있음.
+- 중복 의존성 문제 : 용량 문제. 게다가 서로 다른 버전으로 중복 의존하면 의존성이 꼬이는 문제도 발생.
 
 ## yarn berry
 
@@ -96,12 +98,19 @@ pnpm은 홈디렉토리의 글로벌 저장소인 `~/.pnpm-store`에 모든 패�
 
 content addressable file store 방식.
 
+- content-addressable memory(CAM, 연관메모리 또는 연관기억장치라고도 함)를 사용함.
+
+  - 빠르게 탐색할 때 사용하는 특수 메모리.
+  - 주소로 접근하지 않고, 기억된 내용 일부로 접근
+
 - 단순히 파일 이름으로만 접근x, 각각의 의존성 파일에 hash id를 부여하고 관리.
 - 이 과정에서 중복되는 패키지는 동일한 hash id를 얻게 됨.
 
 필요한 프로젝트마다 node_modules 폴더에 symbolick(sym) link를 만들어 연결.
 
-- 호이스팅을 사용해 flat하게 만들지 않고 npm v2처럼 nested하게 저장하는 구조.
+![Alt text](image.png)
+
+- 호이스팅을 사용해 flat하게 만들지 않고(npm, yarn은 플랫하게 저장) npm v2처럼 nested하게 저장하는 구조.
 - 예를 들어, 100개 프로젝트에서 lodash 모두 쓴다면
   - npm이나 yarn은 loadash를 100개 복사하지만
   - pnpm은 lodash를 1번만 설치하고, 다른 99개 프로젝트에서는 심링크로 연결해 용량 절약
@@ -109,6 +118,11 @@ content addressable file store 방식.
 버전만 다른 라이브러리 사용시?
 
 - 글로벌 저장소에 있는 라이브러리 update하지 않고, 다른 버전 라이브러리만 새로 추가해 버전 호환 문제 생기지 않도록 함.
+
+특히 pnpm은 모노레포에서 좋음.
+
+- 쉬운 코드 재사용, 간단한 의존성 관리, 원자적 커밋(커밋할 때마다 모든 것이 함께 작동동, 변경 사항의 영향을 받는 곳에서 쉽게 변화를 탐지), 큰 스케일의 코드 리팩토링, 팀 간의 협업, 테스트 빌드 범위 최소화
+- 모노레포만을 위한 명령어도 존재함.
 
 ## References
 
@@ -119,3 +133,4 @@ content addressable file store 방식.
 [기능 비교 | pnpm](https://pnpm.io/ko/next/feature-comparison)<br>
 [Yarn berry workspace를 활용한 프론트엔드 모노레포 구축기](https://techblog.woowahan.com/7976/)<br>
 [Yarn Berry, 굳이 도입해야 할가?](https://medium.com/teamo2/yarn-berry-%EA%B5%B3%EC%9D%B4-%EB%8F%84%EC%9E%85%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-d6221b9beca6)<br>
+[PNPM - renew](https://velog.io/@kbm940526/PNPM-renew)<br>
